@@ -2,8 +2,7 @@
 layout: post
 ---
 
-![smarthalo](images/nav_img/smarthalo/installation.jpg)
-![smarthalo](images/nav_img/smarthalo/operation.jpg)
+<iframe width="100%" height="600" src="https://www.smarthalo.bike/#intro" frameborder="0"></iframe>
 
 <!--
     0. logo

@@ -2,7 +2,7 @@
 layout: post
 ---
 
-![beeline_app](images/nav_img/beeline/app.png)
+![app](images/nav_img/smarthalo/app.jpg)
 
 * 路徑設定
 * 同步指示
