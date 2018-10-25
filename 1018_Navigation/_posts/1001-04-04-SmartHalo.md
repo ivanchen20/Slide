@@ -4,8 +4,8 @@ layout: post
 
 ![app](images/nav_img/smarthalo/app.jpg)
 
-* 路徑設定
-* 同步指示
+* 利用色彩協助導航
+* 輔助功能：行走統計、防盜、燈種
 
 <!--
     0. logo
