@@ -2,7 +2,7 @@
 layout: post
 ---
 
-<iframe width="890" height="500" src="https://app.eatsleepride.com" frameborder="0"></iframe>
+<iframe width="auto" height="100%" src="https://app.eatsleepride.com" frameborder="0"></iframe>
 
  - share story
  - share route

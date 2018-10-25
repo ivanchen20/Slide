@@ -2,7 +2,7 @@
 layout: post
 ---
 
-<iframe width="100%" height="600" src="https://www.smarthalo.bike/#intro" frameborder="0"></iframe>
+<iframe width="auto" height="100%" src="https://www.smarthalo.bike/#intro" frameborder="0"></iframe>
 
 <!--
     0. logo
