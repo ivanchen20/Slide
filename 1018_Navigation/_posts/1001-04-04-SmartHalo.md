@@ -2,10 +2,10 @@
 layout: post
 ---
 
-![app](images/nav_img/smarthalo/app.jpg)
+![4](images/nav_img/smarthalo/signal4.png)
+![5](images/nav_img/smarthalo/signal5.png)
 
-* 利用色彩協助導航
-* 輔助功能：行走統計、防盜、燈種
+<iframe width="100%" height="auto" src="https://cdn.shopify.com/s/files/1/1897/8919/t/28/assets/free_flow_optimised.gif?13935232937409926898" frameborder="0"></iframe>
 
 <!--
     0. logo
