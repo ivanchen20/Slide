@@ -4,9 +4,6 @@ layout: post
 
 > Referrence Websites
 
-
-<div style="font-size:60%">
-    
 Product | Link
 ------------ | -------------
 SmartHalo | [https://www.smarthalo.bike/#intro](https://www.smarthalo.bike/#intro)
@@ -15,8 +12,6 @@ Beeline | [https://beeline.co/](https://beeline.co/)
 GogoBee | [http://www.creacttech.com/pages/gogobee](http://www.creacttech.com/pages/gogobee)
 Waze | [https://www.waze.com/zh-TW/](https://www.waze.com/zh-TW/)
 EatSleepRide | [https://app.eatsleepride.com](https://app.eatsleepride.com)
-
-</div>
 
 ```
 2018.10.23 | Created by Ivan Chen | @ Karma
