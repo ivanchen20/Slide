@@ -1,0 +1,16 @@
+---
+layout: post
+---
+
+![beeline_path](images/nav_img/beeline/path.png)
+![beeline_device](images/nav_img/beeline/installation.png)
+
+<iframe width="100%" height="auto" src="https://cdn.shopify.com/s/files/1/1897/8919/t/28/assets/free_flow_optimised.gif?13935232937409926898" frameborder="0"></iframe>
+
+<!--
+    0. logo
+    1. panel
+    2. features
+    3. installation
+    4. app view
+    -->

@@ -2,10 +2,10 @@
 layout: post
 ---
 
-> Websites
+> Referrence Websites
 
 
-Brand | Link
+Product | Link
 ------------ | -------------
 SmartHalo | [https://www.smarthalo.bike/#intro](https://www.smarthalo.bike/#intro)
 HAiKU | [http://www.haiku.bike/](http://www.haiku.bike/)
