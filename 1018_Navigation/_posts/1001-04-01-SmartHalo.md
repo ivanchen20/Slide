@@ -5,9 +5,8 @@ layout: post
 ![smarthalo](images/nav_img/smarthalo/operation.png)
 
 <!--
-    0. logo / pages
-    1. panel
-    2. features
-    3. installation
-    4. app view
+    0. logo
+    1. what it looks like?
+    2. how it works?
+    3. app view
     -->
